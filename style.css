@@ -1,0 +1,32 @@
+*{
+    margin: 0;
+}
+
+#main-container{
+    height: 100vh;
+    background-color:hsl(0, 0%, 8%) ;
+}
+#container{
+    display: inline-block;
+    height: 400px;
+    width: 250px;
+    background-color: hsl(0, 0%, 12%);
+}
+
+img{
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+}
+
+.name{
+    color:hsl(0, 0%, 100%);
+}
+
+.location {
+    color: hsl(75, 94%, 57%);
+}
+
+.about {
+    color: hsl(0, 0%, 100%);
+}
